@@ -41,8 +41,8 @@
 ### 🧰 常用
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin,dart,flutter,rust,ts,cpp,py,android,git,github,linux&amp;theme=dark">
-  <img src="https://skillicons.dev/icons?i=kotlin,dart,flutter,rust,ts,cpp,py,android,git,github,linux&amp;theme=light" alt="Tech stack">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin%2Cdart%2Cflutter%2Crust%2Cts%2Ccpp%2Cpy%2Candroid%2Cgit%2Cgithub%2Clinux&amp;theme=dark">
+  <img src="https://skillicons.dev/icons?i=kotlin%2Cdart%2Cflutter%2Crust%2Cts%2Ccpp%2Cpy%2Candroid%2Cgit%2Cgithub%2Clinux&amp;theme=light" alt="Tech stack">
 </picture>
 
 `Kotlin` · `Dart / Flutter` · `Rust` · `TypeScript` · `C++` · `Python` · `ESP32-S3` · `Android` · `Git`
