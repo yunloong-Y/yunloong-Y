@@ -9,11 +9,7 @@
 
 *Build · Tinker · Contribute —— 边折腾，边把东西做出来。*
 
-[![Location](https://img.shields.io/badge/%F0%9F%93%8D-Shanghai%2C%20China-555?style=flat-square)](https://github.com/yunloong-Y)
-![Focus](https://img.shields.io/badge/Focus-AI%20Hardware%20%26%20On--device%20Agents-8250df?style=flat-square)
-[![PRs](https://img.shields.io/badge/PRs-128-1f6feb?style=flat-square&logo=github)](https://github.com/search?q=is%3Apr+author%3Ayunloong-Y&type=pullrequests)
-[![Merged](https://img.shields.io/badge/Merged-47-2da44e?style=flat-square&logo=git-merge)](https://github.com/search?q=is%3Apr+author%3Ayunloong-Y+is%3Amerged&type=pullrequests)
-[![SkillHub](https://img.shields.io/badge/SkillHub-%40user_1ad64560-0969da?style=flat-square)](https://skillhub.cn/skills/user_1ad64560/moss-550w)
+[![Location](https://img.shields.io/badge/%F0%9F%93%8D-Shanghai%2C%20China-555?style=flat-square)](https://github.com/yunloong-Y) ![Focus](https://img.shields.io/badge/Focus-AI%20Hardware%20%26%20On--device%20Agents-8250df?style=flat-square) [![PRs](https://img.shields.io/badge/PRs-128-1f6feb?style=flat-square&logo=github)](https://github.com/search?q=is%3Apr+author%3Ayunloong-Y&type=pullrequests) [![Merged](https://img.shields.io/badge/Merged-47-2da44e?style=flat-square&logo=git-merge)](https://github.com/search?q=is%3Apr+author%3Ayunloong-Y+is%3Amerged&type=pullrequests) [![SkillHub](https://img.shields.io/badge/SkillHub-%40user_1ad64560-0969da?style=flat-square)](https://skillhub.cn/skills/user_1ad64560/moss-550w)
 
 ---
 
