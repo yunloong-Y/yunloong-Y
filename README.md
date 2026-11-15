@@ -13,10 +13,17 @@
 
 ---
 
+### 🆕 最新开源项目 · [skillscope](https://github.com/yunloong-Y/skillscope)
+
+> **你的 Agent 没变笨。是它的上下文窗口被 Skill 吃满了。**
+>
+> 一条命令给 Agent Skill 做体检：12 条规则打分、上下文成本估算、可留存 HTML 报告。`Python` · 零依赖 · 纯本地 · MIT · [中文 README](https://github.com/yunloong-Y/skillscope/blob/main/README.md) / [English](https://github.com/yunloong-Y/skillscope/blob/main/README.en.md)
+
 ### 🔧 自己做的小东西
 
 | 项目 | 说明 |
 |---|---|
+| **[skillscope](https://github.com/yunloong-Y/skillscope)**<br>`Python` · `CLI / Agent Skill` | 给 Agent Skill 做体检：12 条规则 + 上下文 token 成本估算 + HTML 报告，零依赖纯本地 |
 | **[AI-Glasses-BLEDebugTools](https://github.com/yunloong-Y/AI-Glasses-BLEDebugTools)**<br>`Dart / Flutter` ![stars](https://img.shields.io/github/stars/yunloong-Y/AI-Glasses-BLEDebugTools?style=flat-square&color=1f6feb) | Universal Cross-Platform Bluetooth Debug Assistant —— 给 AI 眼镜用的跨平台蓝牙调试助手 |
 | **[AI-Skills](https://github.com/yunloong-Y/AI-Skills)**<br>`Skills` | 自研 WorkBuddy / Claude Code 兼容 Skill 合集：`moss-550w`、`resume-assistant`、`skillhub-publish`，已发布至 [SkillHub](https://skillhub.cn/skills/user_1ad64560/moss-550w) |
 | **[ESP32S3-Jarvis](https://github.com/yunloong-Y/ESP32S3-Jarvis)**<br>`C++` · fork of [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) | 基于虾哥小智 AI 的立创实战派 ESP32-S3 二创：贾维斯助手与 Web USB 烧录工具 |
